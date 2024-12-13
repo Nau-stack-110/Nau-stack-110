@@ -21,10 +21,12 @@ Développeur **MEAN-Stack** passionné, basé à Madagascar 🌍. Mon objectif e
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Cordova](https://img.shields.io/badge/Apache_Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 💻 Outils et Environnements
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
