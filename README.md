@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis [Naunau/Nau-stack-110] !
+# 👋 Bonjour, je suis Naunau/Nau-stack-110 !
 
 Développeur **MEAN-Stack** passionné, basé à Madagascar 🌍. Mon objectif est de créer des applications web et mobiles performantes et adaptées aux besoins des utilisateurs.
 
