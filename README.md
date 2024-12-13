@@ -16,7 +16,7 @@ Développeur **MEAN-Stack** passionné, basé à Madagascar 🌍. Mon objectif e
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
