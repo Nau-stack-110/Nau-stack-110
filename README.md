@@ -46,8 +46,8 @@ Je travaille activement sur des projets mettant en valeur mes compétences. N'h�
 ## 📫 Me contacter
 
 - **Email** : [andriatahianaarnaud110@gmail.com]
-- **Facebook** : [(https://www.facebook.com/arnaud.andriatahiana)](#) 
-- **Portfolio** : [(https://portfolio-ako.netlify.app)](#)
+- **Facebook** : [https://www.facebook.com/arnaud.andriatahiana](#) 
+- **Portfolio** : [https://portfolio-ako.netlify.app](#)
 
 ---
 ### "I walk slowly but I never walk backward!"
