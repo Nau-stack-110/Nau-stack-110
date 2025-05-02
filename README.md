@@ -16,6 +16,7 @@ Développeur **Full Stack** passionné, basé à **Madagascar**. Je conçois des
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" title="Django"/>
+  <img src="https://simpleicons.org/icons/djangorestframework.svg" alt="Django REST Framework" width="40" height="40" title="Django REST Framework"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="REST API" width="40" height="40" title="REST API"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize CLI" width="40" height="40" title="Sequelize CLI"/>
   <img src="https://simpleicons.org/icons/expo.svg" alt="Expo" width="40" height="40" title="Expo"/>
@@ -24,6 +25,7 @@ Développeur **Full Stack** passionné, basé à **Madagascar**. Je conçois des
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" title="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
 </div>
 
 ---
