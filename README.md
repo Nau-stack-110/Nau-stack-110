@@ -6,7 +6,8 @@ Développeur **Fullstack** passionné, basé à **Madagascar**. Je conçois des 
 
 ## 🚀 Compétences & Technologies
 
-<div style="display: grid; grid-template-columns: repeat(5, 50px); gap: 5px; justify-content: center;">
+<div style="display: flex; justify-content: center;">
+  <div style="background: #ffffff; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; display: grid; grid-template-columns: repeat(5, 50px); gap: 10px; max-width: 300px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" title="Angular"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js"/>
@@ -25,6 +26,7 @@ Développeur **Fullstack** passionné, basé à **Madagascar**. Je conçois des 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" title="Postman"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
+</div>
 </div>
 
 ---
