@@ -5,7 +5,7 @@ Développeur **Fullstack** passionné, basé à **Madagascar**. Je conçois des 
 ---
 
 ## 🚀 Compétences & Technologies
-
+<br>
 <div style="display: flex; justify-content: center;">
   <div style="background: #ffffff; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; display: grid; grid-template-columns: repeat(5, 50px); gap: 10px; max-width: 300px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" title="Angular"/>
