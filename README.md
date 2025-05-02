@@ -41,8 +41,8 @@ Développeur **Fullstack** passionné, basé à **Madagascar**. Je conçois des 
         100% { opacity: 0.6; }
       }
     </style>
-  </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nau-stack-110&theme=dracula&layout=compact&card_width=320&hide_border=true&hide=html,css" alt="Langages les plus utilisés" style="position: relative; z-index: 1;"/>
+</div>
 </div>
 
 ---
