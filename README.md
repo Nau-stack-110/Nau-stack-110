@@ -32,7 +32,18 @@ Développeur **Fullstack** passionné, basé à **Madagascar**. Je conçois des 
 
 <br>
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Nau-stack-110&theme=light&layout=compact&card_width=320&hide_border=false&hide=html,css)
+<div style="position: relative; display: flex; justify-content: center; background: #1a1a1a; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px); background-size: 10px 10px; animation: twinkling 4s infinite;">
+    <style>
+      @keyframes twinkling {
+        0% { opacity: 0.6; }
+        50% { opacity: 1; }
+        100% { opacity: 0.6; }
+      }
+    </style>
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nau-stack-110&theme=dracula&layout=compact&card_width=320&hide_border=true&hide=html,css" alt="Langages les plus utilisés" style="position: relative; z-index: 1;"/>
+</div>
 
 ---
 
