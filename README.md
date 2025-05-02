@@ -5,22 +5,22 @@ Développeur **Full Stack** passionné, basé à **Madagascar**. Je conçois des
 ---
 ## 🚀 Compétences & Technologies
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://simpleicons.org/icons/angular.svg" alt="Angular" width="40" height="40" title="Angular"/> 
+<img src="https://simpleicons.org/icons/react.svg" alt="React" width="40" height="40" title="React"/> 
+<img src="https://simpleicons.org/icons/nextdotjs.svg" alt="Next.js" width="40" height="40" title="Next.js"/> 
+<img src="https://simpleicons.org/icons/vite.svg" alt="Vite" width="40" height="40" title="Vite"/> 
+<img src="https://simpleicons.org/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40" title="TailwindCSS"/> 
+<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/> 
+<img src="https://simpleicons.org/icons/nodedotjs.svg" alt="Node.js" width="40" height="40" title="Node.js"/> 
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40" title="Python"/> 
+<img src="https://simpleicons.org/icons/django.svg" alt="Django" width="40" height="40" title="Django"/> 
+<img src="https://simpleicons.org/icons/fastapi.svg" alt="REST API" width="40" height="40" title="REST API"/> 
+<img src="https://simpleicons.org/icons/react.svg" alt="React Native" width="40" height="40" title="React Native"/> 
+<img src="https://simpleicons.org/icons/apachecordova.svg" alt="Cordova" width="40" height="40" title="Cordova"/> 
+<img src="https://simpleicons.org/icons/android.svg" alt="Android" width="40" height="40" title="Android"/> 
+<img src="https://simpleicons.org/icons/linux.svg" alt="Linux" width="40" height="40" title="Linux"/> 
+<img src="https://simpleicons.org/icons/git.svg" alt="Git" width="40" height="40" title="Git"/> 
+<img src="https://simpleicons.org/icons/postman.svg" alt="Postman" width="40" height="40" title="Postman"/>
 ---
 
 ## 🏆 Challenges
