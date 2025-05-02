@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Naunau !
 
-Développeur **MEAN Stack** passionné, basé à **Madagascar**. Je conçois des applications **web** et **mobiles** performantes, adaptées aux besoins réels des utilisateurs.
+Développeur **Full Stack** passionné, basé à **Madagascar**. Je conçois des applications **web** et **mobiles** performantes, adaptées aux besoins réels des utilisateurs.
 
 ---
 ## 🚀 Compétences & Technologies
