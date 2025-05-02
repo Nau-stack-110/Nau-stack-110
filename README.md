@@ -30,7 +30,7 @@ Développeur **Fullstack** passionné, basé à **Madagascar**. Je conçois des 
 </div>
 </div>
 
-<div></div>
+<br>
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Nau-stack-110&theme=light&layout=compact&card_width=320&hide_border=false&hide=html,css)
 
