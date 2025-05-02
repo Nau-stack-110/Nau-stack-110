@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Naunau (aka Nau-stack-110) !
+# 👋 Salut, je suis Naunau !
 
 Développeur **MEAN Stack** passionné, basé à **Madagascar**. Je conçois des applications **web** et **mobiles** performantes, adaptées aux besoins réels des utilisateurs.
 
