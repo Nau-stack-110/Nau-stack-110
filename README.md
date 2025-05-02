@@ -39,13 +39,6 @@ Développeur **Fullstack** passionné, basé à **Madagascar**. Je conçois des 
 
 ---
 
-## 🏆 Challenges
-
-- **Clash of Code** — [CodingGame](https://www.codingame.com/)
-- **Taille de Code** — Challenges d'optimisation de code
-
----
-
 ## 💻 Projets
 
 Je développe activement des projets fullstack. Explore mes dépôts pour découvrir mes travaux les plus récents.
