@@ -1,60 +1,70 @@
 <h1 align="center">👋 Salut, je suis Naunau !</h1>
 
+<p align="center">
+  Développeur <strong>Fullstack</strong> passionné, basé à <strong>Madagascar</strong>.<br>
+  Je conçois des applications <strong>web</strong> et <strong>mobiles</strong> performantes, adaptées aux besoins réels des utilisateurs.
+</p>
 
-Développeur **Fullstack** passionné, basé à **Madagascar**. Je conçois des applications **web** et **mobiles** performantes, adaptées aux besoins réels des utilisateurs.
-
----
+<hr>
 
 <h2 align="center">🚀 Compétences & Technologies</h2>
-<br>
-<div style="display: flex; justify-content: center;">
-  <div style="background: #ffffff; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; display: grid; grid-template-columns: repeat(5, 50px); gap: 10px; max-width: 300px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" title="Angular"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40" title="Vite"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40" title="TailwindCSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" title="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="REST API" width="40" height="40" title="REST API"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize CLI" width="40" height="40" title="Sequelize CLI"/>
-  <img src="https://simpleicons.org/icons/expo.svg" alt="Expo" width="40" height="40" title="Expo"/>
-  <img src="https://simpleicons.org/icons/apachecordova.svg" alt="Cordova" width="40" height="40" title="Cordova"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" title="Android"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" title="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
-</div>
-</div>
 
 <br>
 
-<div style="position: relative; display: flex; justify-content: center; background: #1a1a1a; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle, rgba(255,255,255,0.2) 1px, transparent 1px); background-size: 10px 10px; opacity: 0.8;"></div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nau-stack-110&theme=dracula&layout=compact&card_width=320&hide_border=true&hide=html,css" alt="Langages les plus utilisés" style="position: relative; z-index: 1;"/>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 700px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" title="Angular"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" title="React"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" title="Next.js"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="50" height="50" title="Vite"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50" title="TailwindCSS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" title="PHP"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50" title="Django"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="REST API" width="50" height="50" title="REST API"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize CLI" width="50" height="50" title="Sequelize CLI"/>
+    <img src="https://simpleicons.org/icons/expo.svg" alt="Expo" width="50" height="50" title="Expo"/>
+    <img src="https://simpleicons.org/icons/apachecordova.svg" alt="Cordova" width="50" height="50" title="Cordova"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50" height="50" title="Android"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" title="Postman"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" title="Docker"/>
+  </div>
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nau-stack-110&theme=dracula&layout=compact&card_width=320&hide_border=true&hide=html,css" alt="Langages les plus utilisés"/>
+</div>
+
+<hr>
 
 <h2 align="center">💻 Projets</h2>
 
-Je développe activement des projets fullstack. Explore mes dépôts pour découvrir mes travaux les plus récents.
+<p align="center">
+  Je développe activement des projets fullstack.<br>
+  Explore mes dépôts pour découvrir mes travaux les plus récents.
+</p>
 
----
+<hr>
 
 <h2 align="center">📫 Contact</h2>
 
-- **Email** : andriatahianaarnaud110@gmail.com  
-- **Facebook** : [arnaud.andriatahiana](https://www.facebook.com/arnaud.andriatahiana)  
-- **Portfolio** : [portfolio-ako.netlify.app](https://portfolio-ako.netlify.app)
+<p align="center">
+  <strong>Email :</strong> andriatahianaarnaud110@gmail.com <br>
+  <strong>Facebook :</strong> <a href="https://www.facebook.com/arnaud.andriatahiana">arnaud.andriatahiana</a><br>
+  <strong>Portfolio :</strong> <a href="https://portfolio-ako.netlify.app">portfolio-ako.netlify.app</a>
+</p>
 
----
+<hr>
 
-> *"I walk slowly but I never walk backward."*  
-> *🌟 Code, Learn, and Innovate!*
+<blockquote align="center">
+  <em>"I walk slowly but I never walk backward."</em><br>
+  🌟 Code, Learn, and Innovate!
+</blockquote>
 
-Merci pour votre visite !
+<p align="center"><strong>Merci pour votre visite !</strong></p>
