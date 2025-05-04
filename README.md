@@ -55,7 +55,7 @@
 <h2 align="center">📫 Contact</h2>
 
 <p align="center">
-  <strong>Email :</strong><a href="andriatahianaarnaud110@gmail.com">andriatahianaarnaud110@gmail.com</a><br>
+  <strong>Email :</strong><a href="mailto:andriatahianaarnaud110@gmail.com">andriatahianaarnaud110@gmail.com</a><br>
   <strong>Facebook :</strong> <a href="https://www.facebook.com/arnaud.andriatahiana">arnaud.andriatahiana</a><br>
   <strong>Portfolio :</strong> <a href="https://portfolio-ako.netlify.app">portfolio-ako.netlify.app</a>
 </p>
