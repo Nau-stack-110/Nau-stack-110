@@ -1,10 +1,11 @@
-# 👋 Salut, je suis Naunau !
+<h1 align="center">👋 Salut, je suis Naunau !</h1>
+
 
 Développeur **Fullstack** passionné, basé à **Madagascar**. Je conçois des applications **web** et **mobiles** performantes, adaptées aux besoins réels des utilisateurs.
 
 ---
 
-## 🚀 Compétences & Technologies
+<h2 align="center">🚀 Compétences & Technologies</h2>
 <br>
 <div style="display: flex; justify-content: center;">
   <div style="background: #ffffff; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding: 20px; display: grid; grid-template-columns: repeat(5, 50px); gap: 10px; max-width: 300px;">
@@ -39,13 +40,13 @@ Développeur **Fullstack** passionné, basé à **Madagascar**. Je conçois des 
 
 ---
 
-## 💻 Projets
+<h2 align="center">💻 Projets</h2>
 
 Je développe activement des projets fullstack. Explore mes dépôts pour découvrir mes travaux les plus récents.
 
 ---
 
-## 📫 Contact
+<h2 align="center">📫 Contact</h2>
 
 - **Email** : andriatahianaarnaud110@gmail.com  
 - **Facebook** : [arnaud.andriatahiana](https://www.facebook.com/arnaud.andriatahiana)  
