@@ -57,7 +57,7 @@
 <p align="center">
   <strong>Email :</strong><a href="mailto:andriatahianaarnaud110@gmail.com">andriatahianaarnaud110@gmail.com</a><br>
   <strong>Facebook :</strong> <a href="https://www.facebook.com/arnaud.andriatahiana">arnaud.andriatahiana</a><br>
-  <strong>Portfolio :</strong> <a href="https://portfolio-ako.netlify.app">portfolio-ako.netlify.app</a>
+  <strong>Portfolio :</strong> <a href="https://portfolio-ako.netlify.app">naunau.netlify.app</a>
 </p>
 
 <hr>
